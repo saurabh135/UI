@@ -1,0 +1,130 @@
+body {
+    margin: 0px;
+}
+
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+
+.clear:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+#header {
+    background-color:#333545;
+    /* background-color:#b3c41d; */
+}
+
+#header .logo {
+    width: 8%;
+    padding: 20px 20px 0px 40px;
+}
+
+#header .logo img {
+    width: 100%;
+}
+
+#header .search {
+    width: 70%;
+    padding-top: 20px;
+}
+
+#header .search input[type='text'] {
+    width: 60%;
+    height: 30px;
+    border-radius: 7px;
+}
+
+/* header 2............................. */
+#header_2{
+    background-color: #1F2533;
+}
+
+/* Top-right header ...................................................... */
+.top-right-header > ul{
+    list-style: none;
+    padding: 0px;
+}
+
+.top-right-header > ul > li {
+display: inline-block;
+text-align: center;
+padding-right: 30px;
+padding-top: 20px;
+position: relative;
+}
+
+.top-right-header > ul > li:after  {
+    content: "";
+    border: 5px solid oldlace;
+    border-color:oldlace transparent transparent;
+    position: absolute; 
+    padding-left: 0px;
+    bottom: 2px;
+    margin-left: 4px;
+}
+/* top extreme right header sign in & icon */
+.trh_2 > ul{
+    list-style: none;
+    padding: 0px;
+}
+
+.trh_2 > ul > li {
+    display: inline-block;
+    text-align: center;
+    padding-right: 12px;
+    padding-top: 17px;
+    }
+ 
+
+/* navbar 1 ......................................... */
+.navbar > ul{
+    /* to remove bullets */
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar > ul > li {
+display: inline-block;
+text-align: center;
+padding: 10px;
+}
+
+/* navbar-2........................................................ */
+.navbar-2 > ul{
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-2 > ul > li {
+display: inline-block;
+text-align: center;
+padding: 10px;
+}
+
+/* .................................................................. */
+
+a{
+text-decoration: none;
+color: cornsilk;
+}
+
+i {
+    display: inline-block;
+    font-size: 20px;
+    color: cornsilk;
+}
+
+.fa-bars{
+    color: cornsilk;
+}
+
+ul li a:hover {
+    color: crimson;
+    }
