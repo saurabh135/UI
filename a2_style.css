@@ -1,0 +1,29 @@
+#div_1 {
+    background-image: url(https://www.topgear.com/sites/default/files/styles/16x9_1280w/public/news/image/2015/04/Large%20Image_10624.jpg?itok=k0K8YfGn)
+}
+
+#div_2 {
+    background-image: url(https://motoroctane.com/wp-content/uploads/2017/05/Porsche-Macan5-800x533.jpg?x41931)
+}
+
+#div_3 {
+    background-image: url(https://www.topgear.com/sites/default/files/styles/16x9_1280w/public/news/image/2015/04/Large%20Image_9953.jpg?itok=S1rVbMlO)
+}
+
+#div_4 {
+    background-image: url(https://f7432d8eadcf865aa9d9-9c672a3a4ecaaacdf2fee3b3e6fd2716.ssl.cf3.rackcdn.com/C2299/U8440/IMG_36465-large.jpg)
+}
+
+#div_5 {
+    background-image: url(https://www.topgear.com/sites/default/files/styles/16x9_1280w/public/news/image/2015/04/Large%20Image_9754.jpg?itok=Ac7OwULK)
+}
+
+body > div {
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+div {
+    height: 600px; 
+}
+
