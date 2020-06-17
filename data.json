@@ -1,0 +1,105 @@
+[{
+        "p_id": 101,
+        "p_name": "apple iphone 11",
+        "p_brand": "apple",
+        "p_category": "mobile",
+        "p_price": 90000,
+        "p_img": "https://www.gizmochina.com/wp-content/uploads/2019/09/Apple-iPhone-11-1-500x500.jpg"
+    },
+
+    {
+        "p_id": 102,
+        "p_name": "redmi note 8",
+        "p_brand": "xiaomi",
+        "p_category": "mobile",
+        "p_price": 12000,
+        "p_img": "https://img.gkbcdn.com/p/2019-08-30/xiaomi-redmi-note-8-6-3-inch-6gb-128gb-smartphone-black-1574132343289._w500_.jpg"
+    },
+
+    {
+        "p_id": 103,
+        "p_name": "lenovo V130",
+        "p_brand": "lenovo",
+        "p_category": "laptop",
+        "p_price": 60000,
+        "p_img": "https://images-na.ssl-images-amazon.com/images/I/41%2BJOQ1Ny1L.jpg"
+    },
+
+    {
+        "p_id": 104,
+        "p_name": "dell latitude 7400",
+        "p_brand": "dell",
+        "p_category": "laptop",
+        "p_price": 217000,
+        "p_img": "https://cdn1.smartprix.com/rx-iApuCOEqd-w500-h500/dell-inspiron-15-358.jpg"
+    },
+
+    {
+        "p_id": 105,
+        "p_name": "ipad pro 2020",
+        "p_brand": "apple",
+        "p_category": "ipad",
+        "p_price": 259000,
+        "p_img": "https://assets.croma.com/medias/sys_master/images/images/hd6/h42/8797902143518/215518_pjpeg.jpg"
+    },
+
+    {
+        "p_id": 106,
+        "p_name": "apple iphone 11",
+        "p_brand": "apple",
+        "p_category": "mobile",
+        "p_price": 75000,
+        "p_img": "https://www.virginmedia.com/content/dam/virginmedia/dotcom/images/mobile-browse/Apple/iphone-11-pro/midnight-green/iPhone11-Pro-midnight-back.png"
+    },
+
+    {
+        "p_id": 107,
+        "p_name": "samsung galaxy s10",
+        "p_brand": "samsung",
+        "p_category": "mobile",
+        "p_price": 60000,
+        "p_img": "https://www.91-img.com/pictures/126032-v9-samsung-galaxy-s10-mobile-phone-large-1.jpg"
+    },
+    {
+        "p_id": 108,
+        "p_name": "macbook pro",
+        "p_brand": "apple",
+        "p_category": "laptop",
+        "p_price": 150000,
+        "p_img": "https://images-na.ssl-images-amazon.com/images/I/61aOa%2B4v4IL._SX679_.jpg"
+    },
+
+    {
+        "p_id": 109,
+        "p_name": "asus zenbook",
+        "p_brand": "asus",
+        "p_category": "laptop",
+        "p_price": 75000,
+        "p_img": "https://img-us1.asus.com/A/show/AW000706/2019/0119/AM0000001/201901AM190000001_15478330508783110019784.jpg"
+    },
+    {
+        "p_id": 110,
+        "p_name": "lenovo yoga",
+        "p_brand": "lenovo",
+        "p_category": "laptop",
+        "p_price": 80000,
+        "p_img": "https://multitech-lb.com/wp-content/uploads/multitech-lebanon-Lenovo-Yoga-Book-%E2%80%93-10.8-Inch-QHD-%E2%80%93-INTEL-CORE-i5-7Y54-Processor-%E2%80%93-YB-J912-C930-600x600.jpg"
+    },
+
+    {
+        "p_id": 111,
+        "p_name": "dell latitude 8000",
+        "p_brand": "dell",
+        "p_category": "laptop",
+        "p_price": 101000,
+        "p_img": "https://cdn1.smartprix.com/rx-iApuCOEqd-w500-h500/dell-inspiron-15-358.jpg"
+    },
+
+    {
+        "p_id": 112,
+        "p_name": "redmi note 10",
+        "p_brand": "xiaomi",
+        "p_category": "mobile",
+        "p_price": 17600,
+        "p_img": "https://img.gkbcdn.com/p/2019-08-30/xiaomi-redmi-note-8-6-3-inch-6gb-128gb-smartphone-black-1574132343289._w500_.jpg"
+    }]
